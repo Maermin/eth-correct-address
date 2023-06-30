@@ -14,4 +14,4 @@ ConsoleWrite($al)
 
 if $lang==$al then ClipPut($adress);  if clipboard is an address it will be changed.
 
-WEnd
+WEnd ; use that tool only on your own computer!
